@@ -40,17 +40,23 @@ Hi, I'm **Veeshal D. Bodosa**, a Creative Developer and Video Editor based in In
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge\&logo=expo\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### **🎬 Creative & Design**
 
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge\&logo=adobe-premiere-pro\&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-121212?style=for-the-badge\&logo=davinciresolve\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203239?style=for-the-badge\&logo=krita\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+![Final Cut Pro](https://img.shields.io/badge/Final_Cut_Pro-000000?style=for-the-badge\&logo=apple\&logoColor=white)
+
+### **🛠 Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-333333?style=for-the-badge\&logo=linux\&logoColor=white)
+![Hosting / Deployment](https://img.shields.io/badge/Hosting%20%2F%20Deployment-4285F4?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
 
@@ -65,7 +71,7 @@ Hi, I'm **Veeshal D. Bodosa**, a Creative Developer and Video Editor based in In
 
 | Project                                                                                                                | Type           | Category               |
 | :--------------------------------------------------------------------------------------------------------------------- | :------------- | :--------------------- |
-| **<a href="https://bodookhrang.com" target="_blank">Okhrang</a>**                                                  | 🛠 Tool        | Web Development        |
+| **<a href="https://bodookhrang.com" target="_blank">Okhrang</a>**                                                      | 🛠 Tool        | Web Development        |
 | **<a href="https://flopshop.vercel.app" target="_blank">FlopShop</a>**                                                 | 🛒 E-commerce  | Web & PWA Development  |
 | **<a href="https://ku-app.in" target="_blank">Kokrajhar University</a>**                                               | 🎓 Education   | Web & App Development  |
 | **<a href="https://www.youtube.com/watch?v=AQIcq3OWTNs" target="_blank">Jery Brahma - That’s What You Face</a>**       | 🎬 Official MV | Face Editor & Colorist |
@@ -93,9 +99,19 @@ A dedicated section for coding challenges and experiments.
 
 ---
 
+## 🎯 Core Skills
+
+|                                   |                                  |
+| :-------------------------------- | :------------------------------- |
+| 💻 **Full-Stack Web Development** | 🎨 **UI / UX Design**            |
+| 📱 **Mobile Apps (React Native)** | 🎬 **Cinematic Video Editing**   |
+| 🗄️ **Databases & Backend APIs**  | 🚀 **Deployment, Hosting & VPS** |
+
+---
+
 ## 📬 Contact
 
-* **Email**: [veebodosa@gmail.com](mailto:veebodosa@gmail.com)
+* **Email**: [work@veeshal.me](mailto:work@veeshal.me)
 * **Location**: India
 
 <div align="center">
