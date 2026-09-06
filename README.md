@@ -66,7 +66,7 @@ Hi, I'm **Veeshal D. Bodosa**, a Creative Developer and Video Editor based in In
 
 | Project                                                                                                                | Type           | Category               |
 | :--------------------------------------------------------------------------------------------------------------------- | :------------- | :--------------------- |
-| **<a href="https://bodookhrang.com" target="_blank">BODOOKHRANG</a>**                                                  | 🛠 Tool        | Web Development        |
+| **<a href="https://bodookhrang.com" target="_blank">Okhrang</a>**                                                  | 🛠 Tool        | Web Development        |
 | **<a href="https://flopshop.vercel.app" target="_blank">FlopShop</a>**                                                 | 🛒 E-commerce  | Web & PWA Development  |
 | **<a href="https://ku-app.in" target="_blank">Kokrajhar University</a>**                                               | 🎓 Education   | Web & App Development  |
 | **<a href="https://www.youtube.com/watch?v=AQIcq3OWTNs" target="_blank">Jery Brahma - That’s What You Face</a>**       | 🎬 Official MV | Face Editor & Colorist |
