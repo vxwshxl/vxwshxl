@@ -58,7 +58,6 @@ Hi, I'm **Veeshal D. Bodosa**, a Creative Developer and Video Editor based in In
 
 * **+5** Live Coding Projects
 * **+15** High-Quality Video Projects
-* **+50k** Monthly Visitors on *BODOOKHRANG*
 
 ---
 
